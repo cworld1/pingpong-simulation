@@ -28,7 +28,9 @@ Open with Unity Hub:
 
 To spend more time coding and less time fiddling with whitespace, this project uses code conventions and styles to encourage consistency. Code with a consistent style is easier (and less error-prone!) to review, maintain, and understand.
 
-<!-- ## Thanks -->
+## Thanks
+
+- [Low-Poly Table Tennis Set](https://assetstore.unity.com/packages/3d/props/low-poly-table-tennis-set-181749)
 
 ## License
 
