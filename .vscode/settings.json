@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pingpong_simu.sln"
+    "dotnet.defaultSolution": "pingpong-simulation.sln"
 }
